@@ -18,7 +18,7 @@ jobs:
       - name: Create ZIP file
         run: |
           zip -r "Kozu_EquipmentParts-Set.zip" \
-            assets/minecraft \
+            Kozu_EquipmentParts-Set \
             README.md \
             README.en.md \
             README.kr.md \
