@@ -67,8 +67,6 @@ By downloading or using this pack, you are deemed to have agreed to the followin
 * Direct commercial use (e.g., selling) using the data from this pack.
 * Use in a manner that associates with or suggests real-life incidents or accidents.
 
----
-
 ## Contact & Bug Reports
 For questions not covered in the terms, please contact the author's X account.
 * **X:** @Kozu_Heavy_Ind (DM or Reply)
