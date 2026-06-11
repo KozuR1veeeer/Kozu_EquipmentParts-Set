@@ -39,13 +39,13 @@ This is a parts set compiling the various part materials I have created so far.
 * **FS-396**: S-Minden type bogie used on late Tobu 8000 series cars, etc.
 * **FS-579**: Monolink bogie with bolster used on the Hankyu 1000 series, etc.
           <br>Light gray textures are also available!
-* **ND-718**: Conical laminated rubber type bolsterless bogie. ~~Honestly, I don't remember why I made this.~~
+* **ND-718**: Conical laminated rubber type bolsterless bogie.
 * **TS-807B**: Axle-spring direct mount bogie used on Tokyu corrugated cars.
 * **TS-1019**: Axle-beam bolsterless bogie used on the Tokyu 5000 series.
 
 #### Couplers
 * **Kozu-style tight-lock coupler**: Modeled likely after a JR East train. Can be equipped with 1-stage/2-stage electrical couplers.
-* **KE97**: Jumper plug. ~~Honestly, I don't even know if it looks like the real thing.~~
+* **KE97**: Jumper plug.
 
 ## Terms of Use
 By downloading or using this pack, you are deemed to have agreed to the following terms.
