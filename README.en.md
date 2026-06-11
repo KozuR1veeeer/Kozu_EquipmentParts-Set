@@ -19,7 +19,7 @@ This is a parts set compiling the various part materials I have created so far.
 
 #### Pantographs
 * **PS38**: Pantograph (DC type) installed on the EV-E301 series.
-* **PS37A + AC/DC equipment**: Pantograph installed on AC/DC trains like the E531 series.   
+* **PS37A + AC/DC equipment**: Pantograph installed on AC/DC trains like the E531 series.
                     <br>As a bonus, the messy piping unique to AC/DC trains is also included.
 #### Other
 * **Radio antenna**: The small beige box often seen on JR East trains.
