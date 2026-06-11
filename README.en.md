@@ -68,8 +68,6 @@ By downloading or using this pack, you are deemed to have agreed to the followin
 
 ## Contact & Bug Reports
 For questions not covered in the terms, please contact the author's X account.
-* **X:** @Kozu_Heavy_Ind (DM or Reply)
-  
 <br>If you find any bugs or defects, it would be a great help if you could report them via GitHub Issues.
 
 ## Disclaimer
