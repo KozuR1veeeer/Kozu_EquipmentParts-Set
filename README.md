@@ -2,6 +2,8 @@
 
 🌍 Languages: [日本語](README.md) | [English](README.en.md) | [中文](README.zh.md) | [한국어](README.kr.md)
 
+<img width="1920" height="1080" alt="photo" src="https://github.com/user-attachments/assets/ca0314d7-9e50-4e68-ad63-fb7755d0587b" />
+
 ## 概要
 これまで作ってきた部品素材を一纏めにしたパーツセットです。
 

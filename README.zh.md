@@ -2,6 +2,8 @@
 
 🌍 Languages: [日本語](README.md) | [English](README.en.md) | [中文](README.zh.md) | [한국어](README.kr.md)
 
+<img width="1920" height="1080" alt="photo" src="https://github.com/user-attachments/assets/ca0314d7-9e50-4e68-ad63-fb7755d0587b" />
+
 ## 简介
 这是一个将至今为止制作的各类零部件素材汇总在一起的部件素材包。
 

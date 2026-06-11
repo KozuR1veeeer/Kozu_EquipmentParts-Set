@@ -2,6 +2,8 @@
 
 🌍 Languages: [日本語](README.md) | [English](README.en.md) | [中文](README.zh.md) | [한국어](README.kr.md)
 
+<img width="1920" height="1080" alt="photo" src="https://github.com/user-attachments/assets/ca0314d7-9e50-4e68-ad63-fb7755d0587b" />
+
 ## 개요
 지금까지 만들어 온 부품 소재를 하나로 묶은 파츠 세트입니다.
 
