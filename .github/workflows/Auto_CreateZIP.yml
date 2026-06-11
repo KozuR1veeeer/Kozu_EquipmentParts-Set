@@ -18,7 +18,12 @@ jobs:
       - name: Create ZIP file
         run: |
           zip -r "Kozu_EquipmentParts-Set.zip" \
-            Kozu_EquipmentParts-Set \
+            運転台 \
+            屋根上機器 \
+            床下機器 \
+            台車 \
+            連結器 \
+            photo.png \
             README.md \
             README.en.md \
             README.kr.md \
